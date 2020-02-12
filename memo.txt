@@ -9,6 +9,8 @@ HARADA Desuyo
 You can't
 
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
 Guan Test
 
 123
@@ -17,6 +19,7 @@ Guan Test
 =======
 123231
 
+<<<<<<< HEAD
 Guan Making Conflit
 =======
 why...(╯‵□′)╯︵┴─┴
@@ -26,3 +29,5 @@ I neet 麥當當
 HungJihTestttttttttto
 =======
 スイカテストおおおおおおおおおお
+=======
+Guan Making Conflit
