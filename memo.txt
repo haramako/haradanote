@@ -1,4 +1,4 @@
-Hello world!
+﻿Hello world!
 
 Hello world again!!
 
@@ -7,3 +7,5 @@ HARADA Desuyo
 マクドナルドを食べたい
 
 You can't
+
+Guan Test
