@@ -10,7 +10,14 @@ You can't
 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+why...(╯‵□′)╯︵┴─┴
+
+I neet 麥當當
+
+>>>>>>> fdba940640fc3c43daf5a6ffeea568df888abd17
 Guan Test
 
 123
@@ -31,3 +38,6 @@ HungJihTestttttttttto
 スイカテストおおおおおおおおおお
 =======
 Guan Making Conflit
+<<<<<<< HEAD
+=======
+=======
